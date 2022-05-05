@@ -1,0 +1,10 @@
+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
+
+git init
+git add
+git config user.name ""
+git config user.email ""
+git commit -m "initial"
+copy url from github account
+git push -u origin master
+
