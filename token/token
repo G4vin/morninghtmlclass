@@ -1,7 +1,7 @@
-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
+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
 
 git init
-git add
+git add .
 git config user.name ""
 git config user.email ""
 git commit -m "initial"
